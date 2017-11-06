@@ -1,0 +1,15 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<Root-4>
+    <Entity-4>
+        <field1>value 1</field1>
+        <field2>value 2</field2>
+        <field3>long value with quotes ' &quot; `</field3>
+        <field4>long value with special chars &lt; ! &lt;!-- //--&gt;&gt;</field4>
+    </Entity-4>
+    <Entity-4>
+        <field-1>value 1</field-1>
+        <field-2>value 2</field-2>
+        <field-3>long value with quotes ' &quot; `</field-3>
+        <field-4>long value with special chars &lt; ! &lt;!-- //--&gt;&gt;</field-4>
+    </Entity-4>
+</Root-4>
