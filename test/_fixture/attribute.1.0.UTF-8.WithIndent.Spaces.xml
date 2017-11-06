@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root-5>
+    <entity-5 field1="value 1" field2="value 2" field3="long value with quotes ' &quot; `" field4="long value with special chars &lt; ! &lt;!-- //--&gt;&gt;"/>
+    <entity-5 field-1="value 1" field-2="value 2" field-3="long value with quotes ' &quot; `" field-4="long value with special chars &lt; ! &lt;!-- //--&gt;&gt;"/>
+</root-5>
